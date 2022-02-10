@@ -1,6 +1,6 @@
 {
   "name": "series-async-each",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "Async each in series.",
   "main": "index.js",
   "files": [
